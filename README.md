@@ -1,6 +1,6 @@
 # Weelo Microfrontend Users
 
-This microfrontend shows the profile page with user the data
+This microfrontend shows the profile page with the user's data
 
 ## Installation
 
