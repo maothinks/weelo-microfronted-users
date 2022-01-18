@@ -4,6 +4,16 @@ This microfrontend shows the profile page with the user's data
 
 ## Installation
 
+- appsettings.json
+
+This file contais the parameters for Api Gateway
+
+```javascript
+{
+    "ServerGateway": "https://localhost:44399/Gateway/"
+}
+```
+
 Install the dependencies and start the server (use port 8503 for tests).
 
 ```sh
